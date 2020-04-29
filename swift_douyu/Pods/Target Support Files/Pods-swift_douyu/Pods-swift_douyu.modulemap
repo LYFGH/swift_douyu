@@ -1,0 +1,6 @@
+framework module Pods_swift_douyu {
+  umbrella header "Pods-swift_douyu-umbrella.h"
+
+  export *
+  module * { export * }
+}

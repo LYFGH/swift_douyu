@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Kingfisher (4.10.1)
+  - ReachabilitySwift (4.3.1)
+  - RTRootNavigationController (0.7.1):
+    - RTRootNavigationController/Core (= 0.7.1)
+  - RTRootNavigationController/Core (0.7.1)
+  - SnapKit (4.2.0)
+  - WebViewJavascriptBridge (6.0.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - ReachabilitySwift
+  - RTRootNavigationController
+  - SnapKit
+  - WebViewJavascriptBridge
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Kingfisher
+    - ReachabilitySwift
+    - RTRootNavigationController
+    - SnapKit
+    - WebViewJavascriptBridge
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+  RTRootNavigationController: afa6913402be26f8326f7f37fc1550aa67baddcc
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  WebViewJavascriptBridge: 7f5bc4d3581e672e8f32bd0f812d54bc69bb8e29
+
+PODFILE CHECKSUM: d8f4e2a21b52c189aab733c738ba668d203922c0
+
+COCOAPODS: 1.6.1

@@ -8,8 +8,13 @@
 
 import UIKit
 
-class ColumnViewController: UIViewController {
+class ColumnViewController: BaseViewController {
 
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        self.navigationController?.setNavigationBarHidden(true, animated: true)
+        
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
 

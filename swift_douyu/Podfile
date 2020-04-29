@@ -1,0 +1,19 @@
+platform:ios , '9.0'
+
+use_frameworks!
+inhibit_all_warnings!
+
+target 'swift_douyu' do
+  
+    pod 'Alamofire'
+    pod 'WebViewJavascriptBridge' 
+    pod 'RTRootNavigationController'
+    #约束
+    pod 'SnapKit'
+    #图片
+    pod 'Kingfisher'
+    #网络检测
+    pod 'ReachabilitySwift'
+    
+    
+end
